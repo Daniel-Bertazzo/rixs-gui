@@ -14,7 +14,11 @@ This is a work in progress and it is expected to be further developed in the fut
 
 ## Requirements
 
-This project needs Python (3.6.7 or above) and PyQt5 to run.
+This project has the following requirements:
+
+* Python (3.6.7 or above) for the scripts
+* PyQt5 and pyqtgraph for the GUI
+* h5py to load `.hdf` and `.h5` files.
 
 ## Usage
 
