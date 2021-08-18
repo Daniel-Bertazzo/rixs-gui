@@ -24,7 +24,7 @@ This project has the following requirements:
 
 To run the GUI and its scripts, simply clone this repository to your machine and run the following command in the terminal (inside the repository directory):
 
-```
+```bash
 python fileReaderControl.py
 ```
 
