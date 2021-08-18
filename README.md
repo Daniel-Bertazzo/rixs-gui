@@ -16,19 +16,19 @@ This is a work in progress and it is expected to be further developed in the fut
 
 This project has the following requirements:
 
-* Python (3.6.7 or above) for the scripts
-* PyQt5 and pyqtgraph for the GUI
-* h5py to load `.hdf` and `.h5` files.
+* [Python](https://www.python.org/) (3.6.7 or above) for the scripts
+* [PyQt5](https://pypi.org/project/PyQt5/) and pyqtgraph for the GUI
+* [h5py](https://www.h5py.org/) to load `.hdf` and `.h5` files ([direct link to pypi project](https://pypi.org/project/h5py/)).
 
 ## Usage
 
-To run the GUI and its scripts, simply clone this repository to your machine and run the following command in the terminal:
+To run the GUI and its scripts, simply clone this repository to your machine and run the following command in the terminal (inside the repository directory):
 
 ```
 python fileReaderControl.py
 ```
 
-That should execute the script and open the interface, allowing the user to load and manipulate experiment files.
+This command should execute the script and open the interface, allowing the user to load and manipulate experiment files.
 
 ## Screenshots
 
