@@ -36,7 +36,7 @@ This command should execute the script and open the interface, allowing the user
 **Image 1:** Interface with no file loaded.
 
 ![](img/img2.png)
-**Image 2** Interface with `.hdf` file loaded, showing its metadata.
+**Image 2:** Interface with `.hdf` file loaded, showing its metadata.
 
 ![](img/img3.png)
 **Image 3:** Example of data and image manipulation from a loaded `.hdf` file. This interface is interactive and has a color histogram section, as well as a Region Of Interest (ROI) selector. It also displays integrated data inside the ROI.
